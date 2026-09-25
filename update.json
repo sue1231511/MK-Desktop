@@ -1,6 +1,6 @@
 {
-  "version": "0.2.18",
-  "date": "2026年9月25日",
-  "url": "https://github.com/sue1231511/MK-Desktop/releases/download/v0.2.18/Mikeko-0.2.18.msi",
-  "changelog": "更新\n- 桌面端版本号升级至 0.2.18\n- 与 Android 端 0.2.3 同步发版\n版本号说明\n- 正式版本号仅在对外发布时分配；内部测试构建不对外分发、不出现在 Release 列表，版本号可能不连续。发布与否以 GitHub Release 列表为准，直接更新到最新版即可"
+  "version": "0.2.19",
+  "date": "2026年9月26日",
+  "url": "https://github.com/sue1231511/MK-Desktop/releases/download/v0.2.19/Mikeko-0.2.19.msi",
+  "changelog": "新功能\n- 会话置顶：最近对话右键菜单置顶/取消置顶\n- 消息内联编辑：编辑用户消息自动触发重新生成\n- 会话滚动位置记忆：切换会话保存滚动位置，切回恢复\n- 消息跳转按钮列：回顶 / 上一条 / 下一条 / 回底\n- 群聊成员名彩色胶囊底\n- 技能包多来源支持：USER + WORKSPACE + PLUGIN\n- 定时任务 Cron 调度：5 字段本地时区表达式\n- 自定义字体导入：支持 .ttf/.otf\n- 侧边栏折叠/展开\n- 设置项搜索框\n版本号说明\n- 正式版本号仅在对外发布时分配；内部测试构建不对外分发、不出现在 Release 列表，版本号可能不连续。发布与否以 GitHub Release 列表为准，直接更新到最新版即可"
 }
